@@ -1,4 +1,6 @@
 # Zepto-SQL-Power-BI-Dashboard
+(https://github.com/anudua26/Zepto-project-T-SQL-/blob/main/Zepto%20Power%20BI%20dashboard.png)
+
 Using T-SQL to analyze KPIs for Zepto data 
 To conduct a comprehensive analysis of Zepto's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in SSMS.
 
