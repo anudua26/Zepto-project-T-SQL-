@@ -1,5 +1,4 @@
 # Zepto-SQL-Power-BI-Dashboard
-(https://github.com/anudua26/Zepto-project-T-SQL-/blob/main/Zepto%20Power%20BI%20dashboard.png)
 
 Using T-SQL to analyze KPIs for Zepto data 
 To conduct a comprehensive analysis of Zepto's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in SSMS.
@@ -15,6 +14,9 @@ Total Sales by Item Type
 Fat Content by Outlet for Total Sales
 Total Sales by Outlet Establishment
 Percentage of Sales by Outlet Size
+
+<img width="1297" height="730" alt="Zepto Power BI dashboard" src="https://github.com/user-attachments/assets/62f93b59-009a-4334-a44d-efc506aad20e" />
+
 
 
 
